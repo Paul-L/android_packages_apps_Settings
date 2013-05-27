@@ -4784,4 +4784,7 @@
     <string name="lockscreen_background_custom_image">Custom image</string>
     <string name="lockscreen_background_default_wallpaper">Default wallpaper</string>
 
+    <!-- Launcher settings  -->
+    <string name="launcher_settings_title">Launcher</string>
+
 </resources>
